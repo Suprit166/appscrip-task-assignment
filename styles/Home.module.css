@@ -73,6 +73,10 @@
   .heading, .subheading {
     color: #333;
     margin: 0;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   @media (max-width: 768px) {
